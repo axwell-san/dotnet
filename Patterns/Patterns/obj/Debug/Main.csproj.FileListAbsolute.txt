@@ -1,0 +1,5 @@
+C:\Users\andrei_sychykau\Desktop\c#\Patterns\Patterns\bin\Debug\Patterns.exe.config
+C:\Users\andrei_sychykau\Desktop\c#\Patterns\Patterns\bin\Debug\Patterns.exe
+C:\Users\andrei_sychykau\Desktop\c#\Patterns\Patterns\bin\Debug\Patterns.pdb
+C:\Users\andrei_sychykau\Desktop\c#\Patterns\Patterns\obj\Debug\Patterns.exe
+C:\Users\andrei_sychykau\Desktop\c#\Patterns\Patterns\obj\Debug\Patterns.pdb

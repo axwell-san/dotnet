@@ -1,0 +1,4 @@
+C:\Users\andrei_sychykau\Desktop\c#\Patterns\SimpleFactory\bin\Debug\SimpleFactory.dll
+C:\Users\andrei_sychykau\Desktop\c#\Patterns\SimpleFactory\bin\Debug\SimpleFactory.pdb
+C:\Users\andrei_sychykau\Desktop\c#\Patterns\SimpleFactory\obj\Debug\SimpleFactory.dll
+C:\Users\andrei_sychykau\Desktop\c#\Patterns\SimpleFactory\obj\Debug\SimpleFactory.pdb

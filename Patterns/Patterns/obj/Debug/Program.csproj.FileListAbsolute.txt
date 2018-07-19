@@ -1,0 +1,12 @@
+C:\Users\andrei_sychykau\Desktop\c#\Patterns\Patterns\bin\Debug\Patterns.exe.config
+C:\Users\andrei_sychykau\Desktop\c#\Patterns\Patterns\bin\Debug\Patterns.exe
+C:\Users\andrei_sychykau\Desktop\c#\Patterns\Patterns\bin\Debug\Patterns.pdb
+C:\Users\andrei_sychykau\Desktop\c#\Patterns\Patterns\obj\Debug\Patterns.exe
+C:\Users\andrei_sychykau\Desktop\c#\Patterns\Patterns\obj\Debug\Patterns.pdb
+C:\Users\andrei_sychykau\Desktop\c#\Patterns\Patterns\obj\Debug\Program.csprojResolveAssemblyReference.cache
+C:\Users\andrei_sychykau\Desktop\c#\Patterns\Patterns\bin\Debug\FactoryMethod.dll
+C:\Users\andrei_sychykau\Desktop\c#\Patterns\Patterns\bin\Debug\FactoryMethod.pdb
+C:\Users\andrei_sychykau\Desktop\c#\Patterns\Patterns\bin\Debug\SimpleFactory.dll
+C:\Users\andrei_sychykau\Desktop\c#\Patterns\Patterns\bin\Debug\SimpleFactory.pdb
+C:\Users\andrei_sychykau\Desktop\c#\Patterns\Patterns\bin\Debug\AbstractFactory.dll
+C:\Users\andrei_sychykau\Desktop\c#\Patterns\Patterns\bin\Debug\AbstractFactory.pdb

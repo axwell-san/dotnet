@@ -1,0 +1,4 @@
+C:\Users\andrei_sychykau\Desktop\c#\Patterns\FactoryMethod\bin\Debug\FactoryMethod.dll
+C:\Users\andrei_sychykau\Desktop\c#\Patterns\FactoryMethod\bin\Debug\FactoryMethod.pdb
+C:\Users\andrei_sychykau\Desktop\c#\Patterns\FactoryMethod\obj\Debug\FactoryMethod.dll
+C:\Users\andrei_sychykau\Desktop\c#\Patterns\FactoryMethod\obj\Debug\FactoryMethod.pdb
